@@ -1,16 +1,10 @@
 # AI_TryOn_mini
 
-<table>
-    <tr>
-        <td align="center">
-        <img src="assets/example/demo.png" width="240"/>
-        </td>
-    </tr>
-</table>
+<img src="assets/example/demo.png" width="100%"/>
 
 # Demo
 
-<img src="example/demo.gif" width="240" />
+<img src="assets/example/demo.gif" width="240"/>
 
 # Tools
 
@@ -53,5 +47,5 @@ http://127.0.0.1:8001
 # TODO
 
 - CodeFormer
-- Memory usage optimization
+- Memory optimization
 - ...
