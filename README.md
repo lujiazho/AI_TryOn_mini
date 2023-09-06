@@ -1,12 +1,6 @@
 # AI_TryOn_mini
 
-<table>
-    <tr>
-        <td align="center">
-        <img src="assets/example/demo.png" width="240"/>
-        </td>
-    </tr>
-</table>
+<img src="assets/example/demo.png" width="100%"/>
 
 # Tools
 
