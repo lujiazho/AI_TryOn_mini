@@ -1,0 +1,1 @@
+needed for icon on workshop canvas
