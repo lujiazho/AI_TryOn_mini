@@ -46,3 +46,9 @@ http://127.0.0.1:8001
 # Hardware requirements
 
 - At least 12G GPU memory is required
+
+# TODO
+
+- CodeFormer
+- Memory usage optimization
+- ...
