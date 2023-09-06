@@ -8,6 +8,10 @@
     </tr>
 </table>
 
+# Demo
+
+<img src="example/demo.gif" width="240" />
+
 # Tools
 
 From top to bottom
@@ -31,8 +35,7 @@ pip install -r requirements.txt
 
 You may download models from [civitai](https://civitai.com/) or
 ```
-wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth
-wget -P ./XMem/saves/ https://github.com/hkchengrex/XMem/releases/download/v1.0/XMem.pth
+(Preparing)
 ```
 - Launch backend
 ```
