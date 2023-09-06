@@ -29,8 +29,13 @@ pip install -r requirements.txt
 
 You may download models from [civitai](https://civitai.com/) or
 ```
-(Preparing)
+./download.sh
 ```
+or
+```
+. download.sh
+```
+where the model I downloaded from official sites and distributors on civitai. Thanks to them.
 - Launch backend
 ```
 python run_app.py
