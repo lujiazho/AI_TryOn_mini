@@ -4,7 +4,7 @@
 
 # Demo
 
-<img src="assets/example/demo.gif" width="240"/>
+<img src="assets/example/demo.gif" width="50%"/>
 
 # Tools
 
