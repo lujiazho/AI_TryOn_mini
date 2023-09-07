@@ -19,6 +19,10 @@ From top to bottom
 - Download
 - Send to render
 
+# Colab Tutorial
+
+Follow this [Colab example](script/AI_TryOn_mini.ipynb), or run on [Colab](https://colab.research.google.com/drive/1uWc59qcvgoLA1GCX5rdVbG5xz4MAK0SK?usp=drive_link). Need to register a ngrok account and copy your token to replace "{your_token}".
+
 # Run Locally
 
 - Install the dependencies (if needed)
