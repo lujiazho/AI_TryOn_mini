@@ -5,4 +5,4 @@ mkdir -p stable_diffusion/models/sd
 
 pip install gdown
 
-python download.py
+python script/download.py
