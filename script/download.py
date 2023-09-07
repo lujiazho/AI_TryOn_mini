@@ -5,7 +5,7 @@ output = './stable_diffusion/models/sd/chilloutmix_NiPrunedFp16Fix.safetensors'
 gdown.download(url, output, quiet=False)
 
 url = 'https://drive.google.com/uc?id=1kwIyzQBLRH5nsLbUaIKvmjPcoTlau0Io'
-output = './stable_diffusion/models/sam/sam_vit_l_0b3195.safetensors'
+output = './stable_diffusion/models/sam/sam_vit_l_0b3195.pth'
 gdown.download(url, output, quiet=False)
 
 url = 'https://drive.google.com/uc?id=1vBDYpoYxZCf0q4YFogKn4oVarocfnbZB'
