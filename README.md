@@ -1,6 +1,9 @@
 # AI_TryOn_mini
 
+***A lightweight AI-driven try-on web app that visualizes an AI character donning your dream outfit. Upload, segment, render, all is seamless and effortless.***
+
 <img src="assets/example/demo.png" width="100%"/>
+Please note: All images utilized herein were sourced from publicly accessible online databases and are used for illustrative purposes only.
 
 # Demo
 
